@@ -16,7 +16,7 @@ $ npm install
 $ npm run start:dev
 ```
 
-###Usage
+### Usage
 
 Visit <b>localhost:5000/documentation</b> for swagger documentation
 
